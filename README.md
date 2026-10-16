@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mehul Pramanik</h1>
 
 <p align="center">
-  <b>B.Tech CSE (AI & ML) | UEM New Town, Kolkata</b><br>
+  <b>B.Tech CSE (AI & ML) | IEM New Town, Kolkata</b><br>
   AI/ML Developer · GenAI Enthusiast · EEG/BCI Researcher
 </p>
 
